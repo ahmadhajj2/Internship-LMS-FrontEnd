@@ -1,5 +1,5 @@
 name: 'Auto Assign PR Reviewers'
-on: pull_request_target
+on: pull_request_targettt
 
 jobs: 
   add-reviews:
